@@ -93,6 +93,7 @@ def draw_circles():
 #   better_draw_circles  and  run_test_better_draw_circles.
 # ----------------------------------------------------------------------
 
+
 def run_test_better_draw_circles():
 
     print()
@@ -145,6 +146,7 @@ def better_draw_circles(n):
 #   can you make some fun pictures?
 # ----------------------------------------------------------------------
 
+
 def run_test_even_better_draw_circles():
 
     print()
@@ -173,4 +175,6 @@ def even_better_draw_circles(n, j, m):
 # ----------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
 # ----------------------------------------------------------------------
+
+
 main()
